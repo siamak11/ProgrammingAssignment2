@@ -37,7 +37,7 @@ cacheSolve <- function(x, ...) {
         inv
 }
 
-#Here's an example showing how this code works
+## Here's an example showing how this code works
 
 # my_matrix$set(matrix(c(3,3, 2, -10), 2, 2))
 # my_matrix$get()
